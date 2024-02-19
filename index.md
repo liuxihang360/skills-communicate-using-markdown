@@ -1,5 +1,5 @@
-# My M1 Header
+# This is an `<h1>` header, which is the largest
 
-## Ny M2 Header
+## This is an `<h2>` header
 
-###### My M6 Header
+###### This is an `<h6>` header, which is the smallest
