@@ -1,5 +1,15 @@
-# My M1 Header
+<<<<<<< start-markdown
+# This is an `<h1>` header, which is the largest
 
-## Ny M2 Header
+## This is an `<h2>` header
 
-###### My M6 Header
+###### This is an `<h6>` header, which is the smallest
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
